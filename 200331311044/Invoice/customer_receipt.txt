@@ -1,0 +1,4 @@
+Customer Receipt
+Cheque Number: 178456
+Invoices:
+- 
